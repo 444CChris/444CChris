@@ -10,7 +10,7 @@ Nice to meet you :)
 - Health/wellness
 
 Read more about me on my personal website soon! 
-Reach me on email! |'christopher.chen444@gmail.com'|
+Reach me on email! |`christopher.chen444@gmail.com`|
 
 <!--
 **444CChris/444CChris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
