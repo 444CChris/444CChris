@@ -9,7 +9,7 @@ Nice to meet you :)
 - Web/game dev
 - Health/wellness
 
-Read more about me on my personal website soon! 
+Read more about me on my personal website! - (<a href="https://444cchris.me" > 444cchris.me </a>) 
 Reach me on email! |`christopher.chen444@gmail.com`|
 
 <!--
